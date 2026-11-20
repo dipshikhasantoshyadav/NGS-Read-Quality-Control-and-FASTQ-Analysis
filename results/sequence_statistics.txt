@@ -1,0 +1,18 @@
+FASTQ Sequence Statistics
+=========================
+
+Dataset: SRR1553607
+Source: NCBI Sequence Read Archive
+Number of reads: 10,000
+Total nucleotide bases: 2,020,000
+Average read length: 202 bp
+
+Nucleotide counts:
+A: 409,551
+T: 411,720
+G: 598,545
+C: 600,184
+
+GC content: 59.34%
+
+Analysis performed using Linux (AWK) and Python.

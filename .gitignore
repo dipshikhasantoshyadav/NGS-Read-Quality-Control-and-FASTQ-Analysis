@@ -1,0 +1,6 @@
+.DS_Store
+data/*.fastq
+data/*.fastq.gz
+results/SRR1553607_fastqc.zip
+results/SRR1553607_fastqc/
+results/multiqc/multiqc_data/
